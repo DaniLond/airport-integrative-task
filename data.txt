@@ -1,0 +1,337 @@
+[ { "key": "1",
+      "value": {
+        "name": "John Doe",
+        "chair": "2B",
+        "id": "1",
+        "miles": 25000,
+        "specialNeeds": [THIRD_AGE]
+      }
+    },
+    {
+      "key": "2",
+      "value": {
+        "name": "Jane Smith",
+        "chair": "1A",
+        "id": "2",
+        "miles": 50000,
+        "specialNeeds": [WITH_CHILDREN, PREGNANT]
+      }
+    },
+    {
+      "key": "3",
+      "value": {
+        "name": "Bob Johnson",
+        "chair": "4D",
+        "id": "3",
+        "miles": 0,
+        "specialNeeds": [WITH_CHILDREN]
+      }
+    },
+    {
+      "key": "4",
+      "value": {
+        "name": "Alice Jones",
+        "chair": "1D",
+        "id": "4",
+        "miles": 35000,
+        "specialNeeds": [PREGNANT]
+      }
+    },
+    {
+      "key": "5",
+      "value": {
+        "name": "Mike Brown",
+        "chair": "5A",
+        "id": "5",
+        "miles": 75000,
+        "specialNeeds": [THIRD_AGE]
+      }
+    },
+    {
+      "key": "6",
+      "value": {
+        "name": "Sara Lee",
+        "chair": "5B",
+        "id": "6",
+        "miles": 0,
+        "specialNeeds": [PREGNANT, WITH_CHILDREN]
+      }
+    },
+    {
+      "key": "7",
+      "value": {
+        "name": "David Kim",
+        "chair": "1E",
+        "id": "7",
+        "miles": 30000,
+        "specialNeeds": [DISABLED]
+      }
+    },
+    {
+      "key": "8",
+      "value": {
+        "name": "Emily Chen",
+        "chair": "3D",
+        "id": "8",
+        "miles": 60000
+      }
+    },
+    {
+      "key": "9",
+      "value": {
+        "name": "Alex Johnson",
+        "chair": "3F",
+        "id": "9",
+        "miles": 20000
+      }
+    },
+    {
+      "key": "10",
+      "value": {
+        "name": "Grace Kim",
+        "chair": "4A",
+        "id": "10",
+        "miles": 40000
+      }
+    },
+    {
+      "key": "11",
+      "value": {
+        "name": "Daniel Lee",
+        "chair": "1F",
+        "id": "11",
+        "miles": 80000,
+        "specialNeeds": [THIRD_AGE]
+      }
+    },
+    {
+      "key": "12",
+      "value": {
+        "name": "Jessica Smith",
+        "chair": "2A",
+        "id": "12",
+        "miles": 15000,
+        "specialNeeds": [PREGNANT]
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "name": "Sofia Perez",
+        "chair": "1B",
+        "id": "13",
+        "miles": 25000
+      }
+    },
+    {
+      "key": "14",
+      "value": {
+        "name": "Juan Hernandez",
+        "chair": "2C",
+        "id": "14",
+        "miles": 50000,
+        "specialNeeds": [WITH_CHILDREN]
+      }
+    },
+    {
+      "key": "15",
+      "value": {
+        "name": "Ana Garcia",
+        "chair": "3B",
+        "id": "15",
+        "miles": 10000
+      }
+    },
+    {
+      "key": "16",
+      "value": {
+        "name": "Luis Rodriguez",
+        "chair": "3C",
+        "id": "16",
+        "miles": 35000
+      }
+    },
+    {
+      "key": "17",
+      "value": {
+        "name": "Maria Martinez",
+        "chair": "1C",
+        "id": "17",
+        "miles": 75000
+      }
+    },
+    {
+      "key": "18",
+      "value": {
+        "name": "Carlos Fernandez",
+        "chair": "6A",
+        "id": "18",
+        "miles": 5000,
+        "specialNeeds": [THIRD_AGE]
+      }
+    },
+    {
+      "key": "19",
+      "value": {
+        "name": "Laura Gonzales",
+        "chair": "3A",
+        "id": "19",
+        "miles": 30000
+      }
+    },
+    {
+      "key": "20",
+      "value": {
+        "name": "Diego Ramirez",
+        "chair": "4B",
+        "id": "20",
+        "miles": 0
+      }
+    },
+    {
+      "key": "21",
+      "value": {
+        "name": "Andrea Sanchez",
+        "chair": "2D",
+        "id": "21",
+        "miles": 20000,
+        "specialNeeds": [PREGNANT]
+      }
+    },
+    {
+      "key": "22",
+      "value": {
+        "name": "Farael Jimenez",
+        "chair": "4C",
+        "id": "22",
+        "miles": 40000
+      }
+    },
+    {
+      "key": "23",
+      "value": {
+        "name": "Natalia Diaz",
+        "chair": "2E",
+        "id": "23",
+        "miles": 80000
+      }
+    },
+    {
+      "key": "24",
+      "value": {
+        "name": "Gabriel Torres",
+        "chair": "2F",
+        "id": "24",
+        "miles": 5000
+      }
+    },
+    {
+      "key": "25",
+      "value": {
+        "name": "Alejandra Castro",
+        "chair": "3E",
+        "id": "25",
+        "miles": 1200
+      }
+    },
+   {
+      "key": "26",
+      "value": {
+        "name": "David Chavez",
+        "chair": "5C",
+        "id": "26",
+        "miles": 0,
+        "specialNeeds": [THIRD_AGE]
+      }
+    },{
+      "key": "27",
+      "value": {
+        "name": "Valeria Ortiz",
+        "chair": "6B",
+        "id": "27",
+        "miles": 0
+      }
+    }, 
+    {
+      "key": "28",
+      "value": {
+        "name": "Julio Mendoza",
+        "chair": "6C",
+        "id": "28",
+        "miles": 25000
+      }
+    },
+   {
+      "key": "29",
+      "value": {
+        "name": "Paola Flores",
+        "chair": "4E",
+        "id": "29",
+        "miles": 5000
+      }
+    },
+{
+      "key": "30",
+      "value": {
+        "name": "Mateo Medina",
+        "chair": "4F",
+        "id": "30",
+        "miles": 12000
+      }
+    },
+{
+      "key": "31",
+      "value": {
+        "name": "Isabel Vega",
+        "chair": "5D",
+        "id": "31",
+        "miles": 0
+      }
+    },
+{
+      "key": "32",
+      "value": {
+        "name": "Mario Velasco",
+        "chair": "5E",
+        "id": "32",
+        "miles": 25500
+      }
+    },
+{
+      "key": "33",
+      "value": {
+        "name": "Eduardo Pacheco",
+        "chair": "6F",
+        "id": "33",
+        "miles": 15000
+      }
+    },
+{
+      "key": "34",
+      "value": {
+        "name": "Daniela Franco",
+        "chair": "6E",
+        "id": "34",
+        "miles": 15000
+      }
+    }, 
+{
+      "key": "35",
+      "value": {
+        "name": "Jorge Rojas",
+        "chair": "5F",
+        "id": "35",
+        "miles": 0
+      }
+    },
+{
+      "key": "36",
+      "value": {
+        "name": "Estefania Castro",
+        "chair": "6D",
+        "id": "36",
+        "miles": 25800
+      }
+    }
+]
+

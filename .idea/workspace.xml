@@ -1,32 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ed01cb-9cba-4255-bee0-e1cf7aff4439" name="Changes" comment="" />
+    <list default="true" id="78f5b97e-d82a-4552-9d5a-40633831f61c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2P46RP9JiZ1DUTUL90HfdYhkO9Z" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P0yFIlW7Q2tjmdQOkWrxc2uujZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/DANIELA LONDOÑO/IdeaProjects/Discretas/TIDiscretas"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DANIELA LONDOÑO/IdeaProjects/BilleteraVirtual&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24022989&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DANIELA LONDOÑO\IdeaProjects\Discretas\TIDiscretas\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PassengersTest.searchWithCollisions">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="TIDiscretas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengersTest.UnsuccessfulSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TIDiscretas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengersTest" />
+      <option name="METHOD_NAME" value="UnsuccessfulSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengersTest.insertarWithCollision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TIDiscretas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengersTest" />
+      <option name="METHOD_NAME" value="insertarWithCollision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengersTest.searchWithCollisions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TIDiscretas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengersTest" />
+      <option name="METHOD_NAME" value="searchWithCollisions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengersTest.successfulSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TIDiscretas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengersTest" />
+      <option name="METHOD_NAME" value="successfulSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PassengersTest.searchWithCollisions" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PassengersTest.UnsuccessfulSearch" />
+        <item itemvalue="JUnit.PassengersTest.successfulSearch" />
+        <item itemvalue="JUnit.PassengersTest.insertarWithCollision" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47ed01cb-9cba-4255-bee0-e1cf7aff4439" name="Changes" comment="" />
-      <created>1682703997551</created>
+      <changelist id="78f5b97e-d82a-4552-9d5a-40633831f61c" name="Changes" comment="" />
+      <created>1682608190592</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1682703997551</updated>
+      <updated>1682608190592</updated>
     </task>
     <servers />
   </component>
