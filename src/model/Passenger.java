@@ -49,4 +49,9 @@ public class Passenger {
     public void setMiles(int miles) {
         this.miles = miles;
     }
+
+
+    public SpecialNeeds[] getSpecialNeeds() {
+        return new SpecialNeeds[0];
+    }
 }

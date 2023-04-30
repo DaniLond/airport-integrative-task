@@ -1,6 +1,7 @@
 package model;
 
 import java.io.*;
+import java.util.ArrayList;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -50,5 +51,48 @@ public class Passengers {
             file.createNewFile();
         }
     }
+
+    /**
+     * Description:calculate the priority of passengers when boarding the plane for first class
+     */
+
+    public int calculatePriority(Passenger passenger) {
+        int priority = 0;
+        if (passenger.getSpecialNeeds() != null) {
+            for (SpecialNeeds need : passenger.getSpecialNeeds()) {
+                switch (need) {
+                    case PREGNANT:
+                        priority += 3;
+                        break;
+                    case DISABLED:
+                        priority += 5;
+                        break;
+                    case THIRD_AGE:
+                        priority += 4;
+                        break;
+                    case WITH_CHILDREN:
+                        priority += 2;
+                        break;
+                    default:
+                        break;
+                }
+            }
+        }
+        priority += passenger.getMiles();
+
+        // Checking for seat class
+        if (passenger.getChair().equalsIgnoreCase("First Class")) {
+            priority += 1;
+        }
+
+        return priority;
+    }
+    public ArrayList<SpecialNeeds> getSpecialNeeds() {
+
+        ArrayList<SpecialNeeds> specialNeeds = getSpecialNeeds();
+        return specialNeeds;
+    }
+
+
 
 }
