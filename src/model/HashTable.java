@@ -4,7 +4,7 @@ import excepctions.DuplicateItemException;
 
 import java.util.Arrays;
 
-public class HashTable<K,V> implements IHashTable<K,V> {
+public class  HashTable<K,V> implements IHashTable<K,V> {
     public static final int arrSize= 36;
     private Node<K,V>[] table;
 
