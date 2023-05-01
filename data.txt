@@ -1,7 +1,7 @@
 [ { "key": "1",
       "value": {
         "name": "John Doe",
-        "chair": "2B",
+        "chair": "2-B",
         "id": "1",
         "miles": 25000,
         "specialNeeds": [THIRD_AGE]
@@ -11,7 +11,7 @@
       "key": "2",
       "value": {
         "name": "Jane Smith",
-        "chair": "1A",
+        "chair": "1-A",
         "id": "2",
         "miles": 50000,
         "specialNeeds": [WITH_CHILDREN, PREGNANT]
@@ -21,7 +21,7 @@
       "key": "3",
       "value": {
         "name": "Bob Johnson",
-        "chair": "4D",
+        "chair": "4-D",
         "id": "3",
         "miles": 0,
         "specialNeeds": [WITH_CHILDREN]
@@ -31,7 +31,7 @@
       "key": "4",
       "value": {
         "name": "Alice Jones",
-        "chair": "1D",
+        "chair": "1-D",
         "id": "4",
         "miles": 35000,
         "specialNeeds": [PREGNANT]
@@ -41,7 +41,7 @@
       "key": "5",
       "value": {
         "name": "Mike Brown",
-        "chair": "5A",
+        "chair": "5-A",
         "id": "5",
         "miles": 75000,
         "specialNeeds": [THIRD_AGE]
@@ -51,7 +51,7 @@
       "key": "6",
       "value": {
         "name": "Sara Lee",
-        "chair": "5B",
+        "chair": "5-B",
         "id": "6",
         "miles": 0,
         "specialNeeds": [PREGNANT, WITH_CHILDREN]
@@ -61,7 +61,7 @@
       "key": "7",
       "value": {
         "name": "David Kim",
-        "chair": "1E",
+        "chair": "1-E",
         "id": "7",
         "miles": 30000,
         "specialNeeds": [DISABLED]
@@ -71,7 +71,7 @@
       "key": "8",
       "value": {
         "name": "Emily Chen",
-        "chair": "3D",
+        "chair": "3-D",
         "id": "8",
         "miles": 60000
       }
@@ -80,7 +80,7 @@
       "key": "9",
       "value": {
         "name": "Alex Johnson",
-        "chair": "3F",
+        "chair": "3-F",
         "id": "9",
         "miles": 20000
       }
@@ -89,7 +89,7 @@
       "key": "10",
       "value": {
         "name": "Grace Kim",
-        "chair": "4A",
+        "chair": "4-A",
         "id": "10",
         "miles": 40000
       }
@@ -98,7 +98,7 @@
       "key": "11",
       "value": {
         "name": "Daniel Lee",
-        "chair": "1F",
+        "chair": "1-F",
         "id": "11",
         "miles": 80000,
         "specialNeeds": [THIRD_AGE]
@@ -108,7 +108,7 @@
       "key": "12",
       "value": {
         "name": "Jessica Smith",
-        "chair": "2A",
+        "chair": "2-A",
         "id": "12",
         "miles": 15000,
         "specialNeeds": [PREGNANT]
@@ -118,7 +118,7 @@
       "key": 13,
       "value": {
         "name": "Sofia Perez",
-        "chair": "1B",
+        "chair": "1-B",
         "id": "13",
         "miles": 25000
       }
@@ -127,7 +127,7 @@
       "key": "14",
       "value": {
         "name": "Juan Hernandez",
-        "chair": "2C",
+        "chair": "2-C",
         "id": "14",
         "miles": 50000,
         "specialNeeds": [WITH_CHILDREN]
@@ -137,7 +137,7 @@
       "key": "15",
       "value": {
         "name": "Ana Garcia",
-        "chair": "3B",
+        "chair": "3-B",
         "id": "15",
         "miles": 10000
       }
@@ -146,7 +146,7 @@
       "key": "16",
       "value": {
         "name": "Luis Rodriguez",
-        "chair": "3C",
+        "chair": "3-C",
         "id": "16",
         "miles": 35000
       }
@@ -155,7 +155,7 @@
       "key": "17",
       "value": {
         "name": "Maria Martinez",
-        "chair": "1C",
+        "chair": "1-C",
         "id": "17",
         "miles": 75000
       }
@@ -164,7 +164,7 @@
       "key": "18",
       "value": {
         "name": "Carlos Fernandez",
-        "chair": "6A",
+        "chair": "6-A",
         "id": "18",
         "miles": 5000,
         "specialNeeds": [THIRD_AGE]
@@ -174,7 +174,7 @@
       "key": "19",
       "value": {
         "name": "Laura Gonzales",
-        "chair": "3A",
+        "chair": "3-A",
         "id": "19",
         "miles": 30000
       }
@@ -183,7 +183,7 @@
       "key": "20",
       "value": {
         "name": "Diego Ramirez",
-        "chair": "4B",
+        "chair": "4-B",
         "id": "20",
         "miles": 0
       }
@@ -192,7 +192,7 @@
       "key": "21",
       "value": {
         "name": "Andrea Sanchez",
-        "chair": "2D",
+        "chair": "2-D",
         "id": "21",
         "miles": 20000,
         "specialNeeds": [PREGNANT]
@@ -202,7 +202,7 @@
       "key": "22",
       "value": {
         "name": "Farael Jimenez",
-        "chair": "4C",
+        "chair": "4-C",
         "id": "22",
         "miles": 40000
       }
@@ -211,7 +211,7 @@
       "key": "23",
       "value": {
         "name": "Natalia Diaz",
-        "chair": "2E",
+        "chair": "2-E",
         "id": "23",
         "miles": 80000
       }
@@ -220,7 +220,7 @@
       "key": "24",
       "value": {
         "name": "Gabriel Torres",
-        "chair": "2F",
+        "chair": "2-F",
         "id": "24",
         "miles": 5000
       }
@@ -229,7 +229,7 @@
       "key": "25",
       "value": {
         "name": "Alejandra Castro",
-        "chair": "3E",
+        "chair": "3-E",
         "id": "25",
         "miles": 1200
       }
@@ -238,7 +238,7 @@
       "key": "26",
       "value": {
         "name": "David Chavez",
-        "chair": "5C",
+        "chair": "5-C",
         "id": "26",
         "miles": 0,
         "specialNeeds": [THIRD_AGE]
@@ -247,7 +247,7 @@
       "key": "27",
       "value": {
         "name": "Valeria Ortiz",
-        "chair": "6B",
+        "chair": "6-B",
         "id": "27",
         "miles": 0
       }
@@ -256,7 +256,7 @@
       "key": "28",
       "value": {
         "name": "Julio Mendoza",
-        "chair": "6C",
+        "chair": "6-C",
         "id": "28",
         "miles": 25000
       }
@@ -265,7 +265,7 @@
       "key": "29",
       "value": {
         "name": "Paola Flores",
-        "chair": "4E",
+        "chair": "4-E",
         "id": "29",
         "miles": 5000
       }
@@ -274,7 +274,7 @@
       "key": "30",
       "value": {
         "name": "Mateo Medina",
-        "chair": "4F",
+        "chair": "4-F",
         "id": "30",
         "miles": 12000
       }
@@ -283,7 +283,7 @@
       "key": "31",
       "value": {
         "name": "Isabel Vega",
-        "chair": "5D",
+        "chair": "5-D",
         "id": "31",
         "miles": 0
       }
@@ -292,7 +292,7 @@
       "key": "32",
       "value": {
         "name": "Mario Velasco",
-        "chair": "5E",
+        "chair": "5-E",
         "id": "32",
         "miles": 25500
       }
@@ -301,7 +301,7 @@
       "key": "33",
       "value": {
         "name": "Eduardo Pacheco",
-        "chair": "6F",
+        "chair": "6-F",
         "id": "33",
         "miles": 15000
       }
@@ -310,7 +310,7 @@
       "key": "34",
       "value": {
         "name": "Daniela Franco",
-        "chair": "6E",
+        "chair": "6-E",
         "id": "34",
         "miles": 15000
       }
@@ -319,7 +319,7 @@
       "key": "35",
       "value": {
         "name": "Jorge Rojas",
-        "chair": "5F",
+        "chair": "5-F",
         "id": "35",
         "miles": 0
       }
@@ -328,7 +328,7 @@
       "key": "36",
       "value": {
         "name": "Estefania Castro",
-        "chair": "6D",
+        "chair": "6-D",
         "id": "36",
         "miles": 25800
       }

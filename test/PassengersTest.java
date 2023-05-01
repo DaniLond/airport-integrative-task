@@ -1,6 +1,5 @@
 import excepctions.DuplicateItemException;
 import model.Passenger;
-import model.Passengers;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 public class PassengersTest {

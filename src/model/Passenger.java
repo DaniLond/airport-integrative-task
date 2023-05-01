@@ -7,6 +7,8 @@ public class Passenger {
     private String chair;
     private String id;
     private int miles;
+    private int time;
+    private int priority;
 
     private ArrayList<SpecialNeeds> specialNeeds;
 
@@ -53,5 +55,21 @@ public class Passenger {
 
     public SpecialNeeds[] getSpecialNeeds() {
         return new SpecialNeeds[0];
+    }
+
+    public int getPriority() {
+        return priority;
+    }
+
+    public void setPriority(int priority) {
+        this.priority = priority;
+    }
+
+    public int getTime() {
+        return time;
+    }
+
+    public void setTime(int time) {
+        this.time = time;
     }
 }
