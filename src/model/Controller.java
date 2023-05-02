@@ -16,10 +16,11 @@ public class Controller {
     }
 
     public void printPassengers(){
-        //queue.print();
-       // queue.orderByChair(passengers.getPassengersHashTable());
-       // queue.orderByArrival(passengers.getPassengersHashTable());
-        queue.printBoardingOrder(passengers.getPassengersHashTable());
+        System.out.println(queue.print());
+    }
+
+    public void insertExit(){
+        queue.insertExit(passengers.getPassengersHashTable());
     }
 
 }

@@ -4,7 +4,8 @@
         "chair": "2-B",
         "id": "1",
         "miles": 25000,
-        "specialNeeds": [THIRD_AGE]
+        "specialNeeds": true,
+        "thirdAge": true
       }
     },
     {
@@ -14,7 +15,8 @@
         "chair": "1-A",
         "id": "2",
         "miles": 50000,
-        "specialNeeds": [WITH_CHILDREN, PREGNANT]
+        "specialNeeds": true,
+        "thirdAge": false
       }
     },
     {
@@ -24,7 +26,8 @@
         "chair": "4-D",
         "id": "3",
         "miles": 0,
-        "specialNeeds": [WITH_CHILDREN]
+        "specialNeeds": false,
+        "thirdAge": true
       }
     },
     {
@@ -34,7 +37,8 @@
         "chair": "1-D",
         "id": "4",
         "miles": 35000,
-        "specialNeeds": [PREGNANT]
+        "specialNeeds": true,
+        "thirdAge": false
       }
     },
     {
@@ -44,7 +48,8 @@
         "chair": "5-A",
         "id": "5",
         "miles": 75000,
-        "specialNeeds": [THIRD_AGE]
+        "specialNeeds": true,
+        "thirdAge": false
       }
     },
     {
@@ -54,7 +59,8 @@
         "chair": "5-B",
         "id": "6",
         "miles": 0,
-        "specialNeeds": [PREGNANT, WITH_CHILDREN]
+        "specialNeeds": true,
+        "thirdAge": false
       }
     },
     {
@@ -64,7 +70,8 @@
         "chair": "1-E",
         "id": "7",
         "miles": 30000,
-        "specialNeeds": [DISABLED]
+        "specialNeeds": false,
+        "thirdAge": true
       }
     },
     {
@@ -73,7 +80,9 @@
         "name": "Emily Chen",
         "chair": "3-D",
         "id": "8",
-        "miles": 60000
+        "miles": 60000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -82,7 +91,9 @@
         "name": "Alex Johnson",
         "chair": "3-F",
         "id": "9",
-        "miles": 20000
+        "miles": 20000,
+        "specialNeeds": false,
+        "thirdAge": true
       }
     },
     {
@@ -91,7 +102,9 @@
         "name": "Grace Kim",
         "chair": "4-A",
         "id": "10",
-        "miles": 40000
+        "miles": 40000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -101,7 +114,8 @@
         "chair": "1-F",
         "id": "11",
         "miles": 80000,
-        "specialNeeds": [THIRD_AGE]
+        "specialNeeds": false,
+        "thirdAge": true
       }
     },
     {
@@ -111,7 +125,8 @@
         "chair": "2-A",
         "id": "12",
         "miles": 15000,
-        "specialNeeds": [PREGNANT]
+        "specialNeeds": true,
+        "thirdAge": true
       }
     },
     {
@@ -120,7 +135,9 @@
         "name": "Sofia Perez",
         "chair": "1-B",
         "id": "13",
-        "miles": 25000
+        "miles": 25000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -130,7 +147,8 @@
         "chair": "2-C",
         "id": "14",
         "miles": 50000,
-        "specialNeeds": [WITH_CHILDREN]
+        "specialNeeds": true,
+        "thirdAge": false
       }
     },
     {
@@ -139,7 +157,9 @@
         "name": "Ana Garcia",
         "chair": "3-B",
         "id": "15",
-        "miles": 10000
+        "miles": 10000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -148,7 +168,9 @@
         "name": "Luis Rodriguez",
         "chair": "3-C",
         "id": "16",
-        "miles": 35000
+        "miles": 35000,
+        "specialNeeds": false,
+        "thirdAge": true
       }
     },
     {
@@ -157,7 +179,9 @@
         "name": "Maria Martinez",
         "chair": "1-C",
         "id": "17",
-        "miles": 75000
+        "miles": 75000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -167,7 +191,8 @@
         "chair": "6-A",
         "id": "18",
         "miles": 5000,
-        "specialNeeds": [THIRD_AGE]
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -176,7 +201,9 @@
         "name": "Laura Gonzales",
         "chair": "3-A",
         "id": "19",
-        "miles": 30000
+        "miles": 30000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -185,7 +212,9 @@
         "name": "Diego Ramirez",
         "chair": "4-B",
         "id": "20",
-        "miles": 0
+        "miles": 0,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -195,7 +224,8 @@
         "chair": "2-D",
         "id": "21",
         "miles": 20000,
-        "specialNeeds": [PREGNANT]
+        "specialNeeds": true,
+        "thirdAge": true
       }
     },
     {
@@ -204,7 +234,9 @@
         "name": "Farael Jimenez",
         "chair": "4-C",
         "id": "22",
-        "miles": 40000
+        "miles": 40000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -213,7 +245,9 @@
         "name": "Natalia Diaz",
         "chair": "2-E",
         "id": "23",
-        "miles": 80000
+        "miles": 80000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -222,7 +256,9 @@
         "name": "Gabriel Torres",
         "chair": "2-F",
         "id": "24",
-        "miles": 5000
+        "miles": 5000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
     {
@@ -231,7 +267,9 @@
         "name": "Alejandra Castro",
         "chair": "3-E",
         "id": "25",
-        "miles": 1200
+        "miles": 1200,
+        "specialNeeds": false,
+        "thirdAge": true
       }
     },
    {
@@ -241,7 +279,8 @@
         "chair": "5-C",
         "id": "26",
         "miles": 0,
-        "specialNeeds": [THIRD_AGE]
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },{
       "key": "27",
@@ -249,7 +288,9 @@
         "name": "Valeria Ortiz",
         "chair": "6-B",
         "id": "27",
-        "miles": 0
+        "miles": 0,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     }, 
     {
@@ -258,7 +299,9 @@
         "name": "Julio Mendoza",
         "chair": "6-C",
         "id": "28",
-        "miles": 25000
+        "miles": 25000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
    {
@@ -267,7 +310,9 @@
         "name": "Paola Flores",
         "chair": "4-E",
         "id": "29",
-        "miles": 5000
+        "miles": 5000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
 {
@@ -276,7 +321,9 @@
         "name": "Mateo Medina",
         "chair": "4-F",
         "id": "30",
-        "miles": 12000
+        "miles": 12000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
 {
@@ -285,7 +332,9 @@
         "name": "Isabel Vega",
         "chair": "5-D",
         "id": "31",
-        "miles": 0
+        "miles": 0,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
 {
@@ -294,7 +343,9 @@
         "name": "Mario Velasco",
         "chair": "5-E",
         "id": "32",
-        "miles": 25500
+        "miles": 25500,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
 {
@@ -303,7 +354,9 @@
         "name": "Eduardo Pacheco",
         "chair": "6-F",
         "id": "33",
-        "miles": 15000
+        "miles": 15000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
 {
@@ -312,7 +365,9 @@
         "name": "Daniela Franco",
         "chair": "6-E",
         "id": "34",
-        "miles": 15000
+        "miles": 15000,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     }, 
 {
@@ -321,7 +376,9 @@
         "name": "Jorge Rojas",
         "chair": "5-F",
         "id": "35",
-        "miles": 0
+        "miles": 0,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     },
 {
@@ -330,7 +387,9 @@
         "name": "Estefania Castro",
         "chair": "6-D",
         "id": "36",
-        "miles": 25800
+        "miles": 25800,
+        "specialNeeds": false,
+        "thirdAge": false
       }
     }
 ]
