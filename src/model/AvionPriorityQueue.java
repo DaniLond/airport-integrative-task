@@ -6,6 +6,7 @@ public class AvionPriorityQueue{
     private PQueue<Passenger> outqueue;
 
     public  AvionPriorityQueue() {
+
         this.Inputqueue = new PQueue();
     }
 

@@ -14,10 +14,12 @@ public class PQueue<T extends Comparable<T>>{
     }
 
     public int leftChild(int i) {
+
         return 2 * i + 1;
     }
 
     public int rightChild(int i) {
+
         return 2 * i + 2;
     }
 

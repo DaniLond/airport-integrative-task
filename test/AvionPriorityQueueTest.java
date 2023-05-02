@@ -72,7 +72,7 @@ public class AvionPriorityQueueTest {
         Passenger passengerDos= new Passenger("Yeison" , "5-A" , "2" , 120, false , false);
         passengerDos.calculateProirity();
 
-        Passenger passengerTres= new Passenger("Gabriel" , "3-F" , "2" , 100, true , true);
+        Passenger passengerTres= new Passenger("Gabriel" , "3-F" , "3" , 100, true , true);
         passengerTres.calculateProirity();
 
         avionPriorityQueueTest.getInputqueue().insert(passengerDos);
